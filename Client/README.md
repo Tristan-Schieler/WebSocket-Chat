@@ -15,8 +15,8 @@ Gift of Asynchronous Babble Chat Client
     * `node . yourusername` - connect with username `yourusername`
     * username must be alpha-numeric and be between 3 and 10 characters
 * To use specific host/port number 
-    * `node . username port host`
-    * EX: `node . username 4931 10.226.9.220` - server running on port 4931 and address 10.226.9.220
+    * `node . username host  port`
+    * EX: `node . username 10.226.9.220  4931` - server running on port 4931 and address 10.226.9.220
 
 ### Type `help` for a list of commands:
 * Commands are `NOT` case sensitive
