@@ -5,7 +5,7 @@
   "main": "My_client1.js",
   "dependencies": {
     "terminal-kit": "^1.26.10",
-    "ws": "^6.1.2"
+    "ws": "^7.4.6"
   },
   "devDependencies": {},
   "scripts": {
